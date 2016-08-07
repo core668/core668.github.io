@@ -9,7 +9,7 @@
 a,input,button{ outline:none; }
 body{
     height:2500px;
-    min-width: 410px;
+    min-width: 450px;
     background: #FAFAFA;
     font-family:	OpenSans-regular,vetica,â€‹Arial,â€‹sans-serif;
     background:linear-gradient(-45deg,#f1f1f1 25%,#FAFAFA 0,#fafafa 50%,#f2f2f2 0,#f2f2f2 75%,#fff 0);
